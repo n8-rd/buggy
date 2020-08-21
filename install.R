@@ -1,2 +1,4 @@
 install.packages("ape")
-install.packages("phytools")
+install.packages("bipartite")
+install.packages("coxme")
+install.packages("MCMCglmmr")
